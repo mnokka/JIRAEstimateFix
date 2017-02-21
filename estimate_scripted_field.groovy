@@ -15,6 +15,9 @@ Scrum board estimating must be changed to use new custom field "Total Remaining 
 Both custom fields to be added to the project screens
 Script runner (server) V4.3.16 was used ok (earlier version failed with this code)
 
+When issue is taken from backlog to sprint, seems that estimates are not updated. Hence do all
+time estimates when issue in bakvlog and then move to the sprint
+
  */
 
 
